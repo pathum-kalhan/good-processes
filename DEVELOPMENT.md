@@ -1,5 +1,5 @@
 # Before start
-# Step 1 - Freeze the UI design
+## Step 1 - Freeze the UI design
 Should have 80% - 90% accurate UI design.
 Won't do any other change even a label change after freeze the design.
 Maintain changes log for future development.
