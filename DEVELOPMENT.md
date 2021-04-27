@@ -18,16 +18,16 @@ Start development.
 
 # Developer checklist
 
-[-] Step 1 - Plan the feature, Do Research.
+- [x] Step 1 - Plan the feature, Do Research.
 Before starting a feature, plan the feature. What needs to be done?
 How this can be done? How to improve performance? How to enforce security?
 
-## Stet 2 - Test happy path
+- [X] Stet 2 - Test happy path
 Test if the feature is working with the happy path?
 
-## Stet 3 - Test other paths as well
+- [X] Stet 3 - Test other paths as well
 
-## Step 4 - Do code refactoring your self
+- [X] Step 4 - Do code refactoring your self
 Before ship to the QA, Do a code refactoring your self.
 
-## Step 5 - Always check above 4 steps
+- [X] Step 5 - Always check above 4 steps
