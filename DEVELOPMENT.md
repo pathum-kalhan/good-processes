@@ -9,3 +9,7 @@ Maintain data modal changes log.
 
 # Step 3
 Organize high level project structure / architecture.
+
+# Step 4
+Start development.
+Organize structure / architecture for the feature.
