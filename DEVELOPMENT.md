@@ -18,7 +18,7 @@ Start development.
 
 # Developer checklist
 
-[] Step 1 - Plan the feature, Do Research.
+[-] Step 1 - Plan the feature, Do Research.
 Before starting a feature, plan the feature. What needs to be done?
 How this can be done? How to improve performance? How to enforce security?
 
